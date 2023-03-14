@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutenticacaoChaves</string>
+    <string name="hintChave">Insira a chave</string>
+    <string name="validar">Validar</string>
+    <string name="listar">Chaves</string>
+    <string name="listarNV" />
+    <string name="listarNV1">Chaves não validadas</string>
+</resources>
